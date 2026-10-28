@@ -1,0 +1,8 @@
+# aptamer_fret_ruler
+#
+# The reported numbers came from Python 3.13.9 with numpy 2.4.4 and
+# scipy 1.17.1. The floors below are what the code needs.
+
+numpy>=1.24
+scipy>=1.10
+pandas>=1.5

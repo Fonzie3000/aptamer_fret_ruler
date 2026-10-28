@@ -1,0 +1,15 @@
+# Private material: notes, plotting code, thesis tables, diagnostics and
+# superseded code. Kept on this computer only and never uploaded.
+git_ignore/
+
+# Files written by a run
+out/
+
+# Python caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Operating-system files
+.DS_Store
+Thumbs.db

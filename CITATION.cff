@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the thesis below."
+title: "aptamer_fret_ruler: geometry and orientation-dependent FRET model for an RNA aptamer helical ruler"
+type: software
+authors:
+  - family-names: Liu
+    given-names: Fangqi
+    orcid: "https://orcid.org/0009-0002-3826-6480"
+    affiliation: "MRC Laboratory of Medical Sciences and Imperial College London"
+repository-code: "https://github.com/Fonzie3000/aptamer_fret_ruler"
+license: MIT
+keywords:
+  - RNA Mango
+  - fluorogenic aptamer
+  - FRET
+  - orientation factor
+  - DSSR
+preferred-citation:
+  type: thesis
+  title: "Fluorogenic RNA Mango Aptamers: Single-Molecule Characterisation and Applications in CRISPR-Mediated Genomic Imaging"
+  thesis-type: "PhD thesis"
+  authors:
+    - family-names: Liu
+      given-names: Fangqi
+      orcid: "https://orcid.org/0009-0002-3826-6480"
+  institution:
+    name: "Imperial College London"
+  year: 2026
+references:
+  - type: article
+    title: "DSSR: an integrated software tool for dissecting the spatial structure of RNA"
+    authors:
+      - family-names: Lu
+        given-names: Xiang-Jun
+      - family-names: Bussemaker
+        given-names: Harmen J.
+      - family-names: Olson
+        given-names: Wilma K.
+    journal: "Nucleic Acids Research"
+    volume: 43
+    issue: 21
+    start: e142
+    year: 2015
+    doi: "10.1093/nar/gkv716"
